@@ -1,4 +1,4 @@
-class Addcolumntocats < ActiveRecord::Migration
+class AddColumnToCats < ActiveRecord::Migration
   def change
   end
 end
